@@ -2,6 +2,10 @@ package edu.xfoleks.algorithms.bitmanipulation;
 
 import java.util.Scanner;
 
+/**
+ * This class contains the algorithm of checking a number if it even or not.
+ */
+
 public class EvenNumberChecker {
     public static boolean isEvenNumber(int number) {
         return (number & 1) == 0;
