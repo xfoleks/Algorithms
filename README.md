@@ -1,5 +1,4 @@
-# The Algorithms (Java version) 
-_______________________________________
+# The Algorithms (Java version)
 
 ## The main goal of repository
 
