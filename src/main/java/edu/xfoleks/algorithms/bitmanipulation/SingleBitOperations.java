@@ -7,6 +7,9 @@ import java.util.Scanner;
  */
 
 public class SingleBitOperations {
+
+    private SingleBitOperations(){}
+
     public static int flipBit(final int number, final int bit) {
         return number ^ (1 << bit);
     }
