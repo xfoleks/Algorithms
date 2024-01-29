@@ -2,7 +2,10 @@
 
 ## The main goal of repository
 
-This repository will contain the algorithms, which will be implemented in Java programming language.
+This repository is containing the next groups of algorithms:
+
+- Bit manipulation
 
 
-### Java version - 17
+Java 17 - the version of the programing language is used for creation of this 
+repository.
