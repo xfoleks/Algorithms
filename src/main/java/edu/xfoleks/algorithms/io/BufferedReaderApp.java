@@ -1,4 +1,4 @@
-package edu.xfoleks.algorithm.io;
+package edu.xfoleks.algorithms.io;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
@@ -22,8 +22,8 @@ public class BufferedReaderApp {
         System.out.printf("Second symbol is - %s\n", bufferedReader.peek(1));
         System.out.printf("Fourth symbol is - %s\n", bufferedReader.peek(3));
 
-
-
         System.out.printf("The block: %s", Arrays.toString(bufferedReader.readBlock()));
+
+        bufferedReader.close();
     }
 }
