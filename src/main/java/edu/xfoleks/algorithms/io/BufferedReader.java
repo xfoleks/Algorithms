@@ -1,4 +1,4 @@
-package edu.xfoleks.algorithm.io;
+package edu.xfoleks.algorithms.io;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
